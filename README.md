@@ -1,16 +1,4 @@
 # music_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We created this music application in Flutter & dart as a part of the 5th semester Mobile Application Development Project.
+This music app works similarly to other music apps such as Spotify, JioSaavn, Wynk, etc.
+Several widgets, and other flutter properties have been used in creating this.
